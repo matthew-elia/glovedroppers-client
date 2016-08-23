@@ -1,0 +1,14 @@
+{
+  "name": "package",
+  "version": "0.0.0",
+  "dependencies": {
+    "browser-sync": "^2.7.1",
+    "browserify": "^10.1.0",
+    "babelify": "^6.0.2",
+    "gulp": "^3.8.11",
+    "gulp-rename": "^1.2.2",
+    "react": "^0.13.2",
+    "react-router": "^0.13.3",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
